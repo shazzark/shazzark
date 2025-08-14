@@ -1,16 +1,21 @@
-## Hi there 👋
+  👋 Hi there, I'm Chidozie Nnam Daniel (Shazzark)
 
-<!--
-**shazzark/shazzark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Frontend Designer** from **Nigeria**
+ Passionate about building beautiful and functional web experiences.
 
-Here are some ideas to get you started:
+ Tech Stack
+- HTML, CSS, JavaScript
+- React.js, Next.js
+- Tailwind CSS, Redux
+- Supabase, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I’m up to
+- Currently improving my **full-stack skills**  
+- Building **BookFinder App** (React + Supabase) and many more  
+- Learning **Node.js** to become a full-stack developer
+
+## 📫 Let's Connect
+ -LinkedIn]:([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/chidozie-nnam-933375258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+ -Twitter:[https://x.com/DOZIEBUILDS?t=Ai0Huy0bG_jmPw_8Ky27zg&s=09](https://x.com/DOZIEBUILDS?t=Ai0Huy0bG_jmPw_8Ky27zg&s=09))
+
+> *"Turning ideas into reality, one project at a time."*
