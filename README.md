@@ -8,11 +8,14 @@
 - React.js, Next.js
 - Tailwind CSS, Redux
 - Supabase, Git
+- mongo Db
+- Express.js
+- node.js
 
  What I’m up to
 - Currently improving my **full-stack skills**  
 - Building **BookFinder App** (React + Supabase) and many more  
-- Learning **Node.js** to become a full-stack developer
+- a full-stack developer(mern)
 
 ## 📫 Let's Connect
  -LinkedIn]:([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/chidozie-nnam-933375258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
